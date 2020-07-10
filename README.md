@@ -4,5 +4,6 @@
 - 🐻 Previous Director @ Cal Hacks (UC Berkeley)
 - 🚀 KP Fellow '19, Lightspeed Fellow '17
 - 👨‍💻 x-intern at Lyft (ML) and Yelp (Android)
+- 💬 let's chat about road biking, music, art, and tech
 
 Contact me on Twitter `@aakashadesara` to get in contact! Check out `www.aakashadesara.com` to learn more about me
