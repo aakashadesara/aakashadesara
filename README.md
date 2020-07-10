@@ -4,7 +4,7 @@
 - 🏡 Currently Engineering @ Nextdoor
 - 👨‍💻 Working on a couple side projects.
 
-Contact me on Twitter @aakashadesara to get in contact!
+Contact me on Twitter `@aakashadesara` to get in contact!
 
 #### Previously
 - 🎉 KP Eng Fellow '19 & Lightspeed Fellow '17
