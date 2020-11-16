@@ -10,4 +10,4 @@ Previous Projects: [`Boxlet Storage`](https://www.boxletstorage.com/), [`thefutu
 
 Contact me on Twitter [`@aakashadesara`](https://www.twitter.com/aakashadesara) to get in contact! 
 
-Website: [`aakashadesara.com/`](https://www.aakashadesara.com/)
+Website: [`www.aakashadesara.com/`](https://aakashadesara.com/)
