@@ -1,7 +1,7 @@
 ### Hello! 🌊 I'm Aakash, a builder and hacker based in the Bay Area.
 
-- 🏡 Currently Engineering @ Nextdoor
-- 🐻 Previous Director @ Cal Hacks (UC Berkeley)
+- 🏡 Currently Engineering @ [Nextdoor](https://nextdoor.com/) & writing at [The Daily Dropout](http://dailydropout.fyi/)
+- 🐻 Previous Director @ [Cal Hacks](http://calhacks.io/) (UC Berkeley)
 - 🚀 KP Fellow '19, Lightspeed Fellow '17
 - 👨‍💻 x-intern at Lyft (ML) and Yelp (Android)
 - 💬 let's chat about road biking, music, art, and tech
