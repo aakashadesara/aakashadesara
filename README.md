@@ -1,9 +1,9 @@
 ### Hello! 🌊 I'm Aakash, a builder and hacker based in the Bay Area.
 
-- 🏡 Currently Engineering @ [Nextdoor](https://nextdoor.com/) & writing at [The Daily Dropout](http://dailydropout.fyi/)
+- 🩺 Currently Engineering @ [Athelas](http://athelas.com/) & writing at [The Daily Dropout](http://dailydropout.fyi/)
 - 🐻 Previous Director @ [Cal Hacks](http://calhacks.io/) (UC Berkeley)
 - 🚀 KP Fellow '19, Lightspeed Fellow '17
-- 👨‍💻 x-intern at Lyft (ML) and Yelp (Android)
+- 👨‍💻 x-eng at Nextdoor (Fullstack), Lyft (ML) and Yelp (Android)
 - 💬 let's chat about road biking, music, art, and tech
 
 Previous Projects: [`Boxlet Storage`](https://www.boxletstorage.com/), [`thefuture.build`](http://thefuture.build/), [`Quarantine4Kids`](http://quarantine4kids.org/)
