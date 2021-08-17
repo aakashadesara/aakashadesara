@@ -1,6 +1,6 @@
 ### Hello! 🌊 I'm Aakash, a builder and hacker based in the Bay Area.
 
-- ⭕️ Currently Engineering @ [Athelas](http://athelas.com/) & writing at [The Daily Dropout](http://dailydropout.fyi/)
+- ⭕️ Currently Engineering @ [Athelas](http://athelas.com/) & writing at [DailyDropout.FYI](http://dailydropout.fyi/)
 - 🐻 Previous Director @ [Cal Hacks](http://calhacks.io/) (UC Berkeley)
 - 🚀 KP Fellow '19, Lightspeed Fellow '17
 - 👨‍💻 x-eng at Nextdoor (Fullstack), Lyft (ML) and Yelp (Android)
