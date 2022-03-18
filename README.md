@@ -9,5 +9,3 @@
 Contact me on Twitter [`@aakashadesara`](https://www.twitter.com/aakashadesara) to get in contact! 
 
 Website: [`www.aakashadesara.com/`](https://aakashadesara.com/)
-
-[![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakashadesara)](https://github.com/anuraghazra/github-readme-stats)
