@@ -1,6 +1,6 @@
 ### Hello! 🌊 I'm Aakash, a builder and hacker based in the Bay Area.
 
-- 🤖 Building AI + LLM Tools for growth teams at [SellScale](https://www.sellscale.com)
+- 🤖 Building an AI copilot for sales at [SellScale](https://www.sellscale.com)
 - 🚀 Writing at [DailyDropout.FYI](http://dailydropout.fyi/)
 - ⭕️ Previously led Growth Engineering @ [Athelas](http://athelas.com/)
 - 🐻 Previous Director @ [Cal Hacks](http://calhacks.io/) (UC Berkeley)
